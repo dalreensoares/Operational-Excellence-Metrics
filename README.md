@@ -1,6 +1,9 @@
 # 🏆 Operational-Excellence-Metrics
-
 ## Empowering Sales and Manufacturing Companies to Streamline Their Analytics Process
+
+![](https://github.com/dalreensoares/Operational-Excellence-Metrics/blob/main/Visuals/Screenshot.png)
+[Click here to see the app in action](https://www.canva.com/design/DAGRxClNOjk/q_NqXTOISrWALFjRiSnCWA/edit?utm_content=DAGRxClNOjk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+)
 
 **Operational-Excellence-Metrics** is an innovative application designed to simplify and enhance the way sales and manufacturing companies handle comparative analytics. Whether you're managing a large-scale manufacturing operation or optimizing sales performance, this app provides comprehensive insights, helping you make data-driven decisions with ease.
 
